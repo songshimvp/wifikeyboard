@@ -13,3 +13,5 @@ https://f-droid.org/repository/browse/?fdid=com.volosyukivan
 
 There is also a related project in development which provides Windows/Mac native client implementation:
 https://github.com/dportabella/DesktopKeyboard2Android
+
+在电脑端控制Android端的输入。奇妙的想法！
